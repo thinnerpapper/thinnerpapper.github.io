@@ -1,2 +1,2 @@
 # thinnerpapper.github.io
-CHRIS AI Client Porta
+CHRIS AI Client Portal
